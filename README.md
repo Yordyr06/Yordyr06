@@ -22,7 +22,7 @@
 ### Me alegra que estes viendo mi perfil en github  
 Soy un Jr frontend developer en constate aprendizaje, por ahora solo soy desarrollador frontend pero mi norte es alcanzar ser un desarrollador full-stack para poder tanto desarrollar y/o dar mantenimiento a aplicaciones y paginas web orientadas a clientes y también dar el soporte backend de ultima generación
 
-Me estoy especializando para  brindar soporte bankend que faciliten el proceso deseado aportando un estilo simple, elegante y apegado a las buenas practicas, logrando así un lenguaje sencillo, legible pero sobre todo eficiente. También estoy coqueteando con la idea de un repositorio para estudiantes de habla hispana a modo de glosario y así aportar a otros de alguna forma ya que para mí es muy importante ser útil  para los demás  
+Me estoy especializando para  brindar soporte backend que faciliten el proceso deseado aportando un estilo simple, elegante y apegado a las buenas practicas, logrando así un lenguaje sencillo, legible pero sobre todo eficiente. También estoy coqueteando con la idea de un repositorio para estudiantes de habla hispana a modo de glosario y así aportar a otros de alguna forma ya que para mí es muy importante ser útil  para los demás  
   
 
 <br/>  
