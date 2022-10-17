@@ -26,7 +26,7 @@ Me estoy especializando para  brindar soporte backend que faciliten el proceso d
 <br/>  
 
 
-## Lenguajes, Herramientas y Tecnologias que conozco  
+## Tecnologias que conozco  
 
 <div align="center">
 
@@ -60,7 +60,7 @@ Me estoy especializando para  brindar soporte backend que faciliten el proceso d
 
 
 
-## Lenguajes, Herramientas y Tecnologias que estoy estudiando
+## Tecnologias que estoy aprendiendo
 <div align="center">
 <img height="25" style="margin: 4px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img height="25" style="margin: 4px" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
