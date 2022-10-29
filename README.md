@@ -45,7 +45,6 @@ Me estoy especializando para  brindar soporte backend que faciliten el proceso d
 <img height="25" style="margin: 4px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 <img height="25" style="margin: 4px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img height="25" style="margin: 4px" src= https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white alt="JQuery"/>
-<img height="25" style="margin: 4px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
 
 <div align="center">
