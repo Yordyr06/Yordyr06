@@ -112,7 +112,7 @@ Me estoy especializando para  brindar soporte backend que faciliten el proceso d
 <div align="center">
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yordyr0&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yordyr06&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
 
