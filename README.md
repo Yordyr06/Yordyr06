@@ -106,7 +106,7 @@ Me estoy especializando para  brindar soporte backend que faciliten el proceso d
 
 
 ## Github Stats
-<div align="center">
+<!-- <div align="center">
 <table><tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yordyr06&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
@@ -116,7 +116,7 @@ Me estoy especializando para  brindar soporte backend que faciliten el proceso d
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordyr06&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
 
 </td></tr></table>
-</div>
+</div> -->
 
 <br/>  
 
