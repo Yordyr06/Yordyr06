@@ -93,7 +93,7 @@ Me estoy especializando para  brindar soporte backend que faciliten el proceso d
 - 💬 Charlemos un poco ¿de qué te gustaria hablar?  
   
 
-- ❤️ ¿Algo sobre mí? Me encanta Pokemon 😆
+- ❤️ ¿Algo sobre mí? Quiero ser un jugador profesional de Pokemon 😆
 
 
 </td><td valign="top" width="50%">
