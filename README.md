@@ -31,7 +31,7 @@ Me estoy especializando para  brindar soporte backend que faciliten el proceso d
 <div align="center">
 
 <div>
-<img height="25" style="margin: 4px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>  
+<img height="25" style="margin: 4px;" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>  
 <img height="25" style="margin: 4px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img height="25" style="margin: 4px" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office"/>
 <img height="25" style="margin: 4px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
