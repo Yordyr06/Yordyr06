@@ -82,7 +82,7 @@ Me estoy especializando para  brindar soporte backend que faciliten el proceso d
 ## De Chill  
 <table><tr><td valign="top" width="50%">
 
-- 💼 Actualmente estoy trabajando en este [proyecto](https://github.com/Yordyr06/e-Commerce)  
+<!-- - 💼 Actualmente estoy trabajando en este [proyecto](https://github.com/Yordyr06/e-Commerce)   -->
   
 
 - 🧪 Ando aprendiendo a un nivel avanzado y profesional sobre javascript y sus frameworks  
