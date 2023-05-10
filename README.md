@@ -1,32 +1,52 @@
-# Hola 👋, soy Yordy Almonte
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<div align="center">
-<a href="https://twitter.com/https://twitter.com/yordyr06" target="_blank">
-<img height="25" style="margin: 4px" src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt='twitter'/>
-</a>
-<a href="https://instagram.com/https://www.instagram.com/yordyr06_/" target="_blank">
-<img height="25" style="margin: 4px" src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt='instagram'/>
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yordy-almonte-5b0783231/" target="_blank">
-<img height="25" style="margin: 4px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn'/>
-</a>
-<a href="https://www.codewars.com/users/dev_yordy" target="_blank">
-<img height="25" style="margin: 4px" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"/>
-</a>
+<!--I am ... (start) -->
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Yordy</h1></summary>
+  </ul>
 </div>
 
------------
-### Me alegra que estes viendo mi perfil en github  
-Soy un Jr frontend developer en constate aprendizaje, por ahora solo soy desarrollador frontend pero mi norte es alcanzar ser un desarrollador full-stack para poder tanto desarrollar y/o dar mantenimiento a aplicaciones y paginas web orientadas a clientes y también dar el soporte backend de ultima generación
 
-Me estoy especializando para  brindar soporte backend que faciliten el proceso deseado aportando un estilo simple, elegante y apegado a las buenas practicas, logrando así un lenguaje sencillo, legible pero sobre todo eficiente. También estoy coqueteando con la idea de un repositorio para estudiantes de habla hispana a modo de glosario y así aportar a otros de alguna forma ya que para mí es muy importante ser útil para los demás.  
-  
-
-<br/>  
+<!--- snake -->
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/bce5acc550e763c4a194b240a629106b43b6e247/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 
-## Tecnologias que conozco  
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
+
+
+<!--Intro (start)-->
+- 🔭 I’m currently working on **tailwind, bootstrap and react**
+
+- 🌱 I’m currently learning **Js in depth, some frameworks and something else** in [Platzi](https://platzi.com/)
+
+- 👨‍🎓 I've keen interest in full stack delopment. So, I'm learning **to become that**
+
+- 💬 Ask me about **html, css, tailwind, bootstrap, js, react or nodejs.**
+
+- 📫 Feel free to reach me out **yoalmonte.dev@outlook.com**
+<!--Intro (end)-->
+<!--I am ... (end) -->
+
+<br/>
+<br/>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2>Technologies That I Know 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
 <div align="center">
 
@@ -50,90 +70,79 @@ Me estoy especializando para  brindar soporte backend que faciliten el proceso d
 <img height="25" style="margin: 4px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img height="25" style="margin: 4px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
 </div>
-
-<div align="center">
-<img height="25" style="margin: 4px" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="BTC"/>
-<img height="25" style="margin: 4px" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="ETH"/>
-<img height="25" style="margin: 4px" src="https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=000" alt="POT"/>
-<img height="25" style="margin: 4px" src="https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white" alt="IOTA"/>
 </div>
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block;">Technologies That I'm Learning 👨🏻‍💻</h2></summary>
+  </ul>
 </div>
-
-<br/>  
-
-
-
-## Tecnologias que estoy aprendiendo
 <div align="center">
 <img height="25" style="margin: 4px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img height="25" style="margin: 4px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img height="25" style="margin: 4px" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
 <img height="25" style="margin: 4px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 <img height="25" style="margin: 4px" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS"/>
 <img height="25" style="margin: 4px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React_Native"/>
-<img height="25" style="margin: 4px" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-<img height="25" style="margin: 4px" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React_Router"/>
+<img height="25" style="margin: 4px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </div>
-
 <br/>
 
-
-
-## De Chill  
-<table><tr><td valign="top" width="50%">
-
-<!-- - 💼 Actualmente estoy trabajando en este [proyecto](https://github.com/Yordyr06/e-Commerce)   -->
+<!--- stats -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
   
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=yordyr06&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yordyr06&theme=dark&hide_border=false" /> 
+</td>
 
-- 🧪 Ando aprendiendo a un nivel avanzado y profesional sobre javascript y sus frameworks  
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yordyr06&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
+  </td>
+</tr>
+</table>
+</p>        
+<!--- stats (end) -->
 
-- 💬 Charlemos un poco ¿de qué te gustaria hablar?  
-  
+<br/>
+<br/>
 
-- ❤️ ¿Algo sobre mí? Quiero ser un jugador profesional de Pokemon 😆
-
-
-</td><td valign="top" width="50%">
-
-<div align="right">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Github Stats
-<div align="center">
-<table><tr><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yordyr06&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
-
-</td><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordyr06&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
-
-</td></tr></table>
+<!-- Connect with me (start) -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
 </div>
 
-<br/>  
-
-  
-
-<br/>  
+<div align="center">
+<a href="https://twitter.com/https://twitter.com/yordyr06" target="_blank">
+<img height="25" style="margin: 4px" src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt='twitter'/>
+</a>
+<a href="https://instagram.com/https://www.instagram.com/yordyr06_/" target="_blank">
+<img height="25" style="margin: 4px" src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt='instagram'/>
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yordy-almonte-5b0783231/" target="_blank">
+<img height="25" style="margin: 4px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn'/>
+</a>
+<a href="https://www.codewars.com/users/dev_yordy" target="_blank">
+<img height="25" style="margin: 4px" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"/>
+</a>
+</div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yordyr06&&style=flat-square" align="center" />
-</div>  
-  
+</div>
+<!-- Connect with me (end) -->
 
-<br/>  
+<br/>
+<br/>
 
-
-<br />
-
------
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
