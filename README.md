@@ -28,7 +28,7 @@
 <!--Intro (start)-->
 - 🔭 I’m currently working on **tailwind, bootstrap and react**
 
-- 🌱 I’m currently learning **Js in depth, some frameworks and something else** in [Platzi](https://platzi.com/)
+- 🌱 I’m currently learning **Js in depth, some frameworks and something else** in [Platzi](https://platzi.com/p/yordyr06/)
 
 - 👨‍🎓 I've keen interest in full stack delopment. So, I'm learning **to become that**
 
